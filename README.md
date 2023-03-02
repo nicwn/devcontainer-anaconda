@@ -1,1 +1,1 @@
-# devcontainer-clean
+# VSCode Anaconda devcontainer
